@@ -1,0 +1,20 @@
+# Change the workspace befor applying the values
+# terraform workspace new <new_name>
+
+resource_group_name = ""
+aks_name = ""
+location = ""
+sku_tier = ""
+kubernetes_version = ""
+node_name = ""
+node_count = ""
+vm_size = ""
+dns_prefix = ""
+log_analytics_workspace_name = ""
+acr_name = ""
+public_ip_name = ""
+dns_label = ""
+namespace = ""
+cert_manager_tag = ""
+acr_url = ""
+registry_name = ""
